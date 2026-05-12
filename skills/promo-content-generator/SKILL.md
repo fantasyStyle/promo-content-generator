@@ -102,7 +102,7 @@ license: MIT
 
 ### 第五步：生成文案
 
-按选定平台，依次加载对应的平台知识文件，生成文案。
+按选定平台，依次加载对应的平台知识文件和优秀案例文件，参考案例的写作水平生成文案。
 
 **文案质量标准：**
 
@@ -209,3 +209,7 @@ license: MIT
 - [抖音运营知识](platforms/douyin.md)
 - [微信公众号运营知识](platforms/wechat.md)
 - [今日头条运营知识](platforms/toutiao.md)
+- [小红书优秀案例](examples/xiaohongshu-good.md)
+- [抖音优秀案例](examples/douyin-good.md)
+- [微信公众号优秀案例](examples/wechat-good.md)
+- [今日头条优秀案例](examples/toutiao-good.md)
