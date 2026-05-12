@@ -1,8 +1,8 @@
-# 多平台推广文案生成器
+# 内容引擎
 
 [![Version](https://img.shields.io/badge/version-v1.1.0-green)](https://github.com/fantasyStyle/promo-content-generator)
 
-Claude Code 技能 — 读取小程序/App 项目信息，自动生成小红书、抖音、微信公众号、今日头条的推广文案。面向没有运营经验的产品经理和开发者。
+Claude Code 技能 — 支持读取项目代码或手动描述产品，自动生成小红书、抖音、微信公众号、今日头条的推广文案。面向没有运营经验的产品经理和开发者。
 
 ## 覆盖平台
 
@@ -37,13 +37,13 @@ gh skill install fantasyStyle/promo-content-generator
 ```bash
 git clone https://github.com/fantasyStyle/promo-content-generator.git
 cd promo-content-generator
-ln -sf "$(pwd)/skills/promo-content-generator" ~/.claude/skills/promo-content-generator
+ln -sf "$(pwd)/skills/content-engine" ~/.claude/skills/content-engine
 ```
 
 ### 方式三：手动复制
 
 ```bash
-cp -r skills/promo-content-generator ~/.claude/skills/promo-content-generator
+cp -r skills/content-engine ~/.claude/skills/content-engine
 ```
 
 ## 使用
@@ -125,7 +125,7 @@ Claude: ==== 小红书 ====
 ## 文件结构
 
 ```
-skills/promo-content-generator/
+skills/content-engine/
 ├── SKILL.md                    # 主技能（7步流程 + 产品类型识别 + 质量标准）
 └── references/
     ├── platforms/
