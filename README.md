@@ -127,16 +127,17 @@ Claude: ==== 小红书 ====
 ```
 skills/promo-content-generator/
 ├── SKILL.md                    # 主技能（7步流程 + 产品类型识别 + 质量标准）
-├── platforms/
-│   ├── xiaohongshu.md          # 小红书：种草逻辑、5种标题公式、标签四分类、限流词库
-│   ├── douyin.md               # 抖音：分镜脚本、黄金3秒、BGM策略、2025算法
-│   ├── wechat.md               # 公众号：深度长文、排版规范、引导话术、AI检测提醒
-│   └── toutiao.md              # 头条：信息流公式、语义理解防标题党、微头条红利
-└── examples/
-    ├── xiaohongshu-good.md     # 小红书优秀文案样本（5篇）
-    ├── douyin-good.md          # 抖音优秀文案样本（4篇）
-    ├── wechat-good.md          # 公众号优秀文案样本（4篇）
-    └── toutiao-good.md         # 头条优秀文案样本（4篇）
+└── references/
+    ├── platforms/
+    │   ├── xiaohongshu.md      # 小红书：种草逻辑、5种标题公式、标签四分类、限流词库
+    │   ├── douyin.md           # 抖音：分镜脚本、黄金3秒、BGM策略、2025算法
+    │   ├── wechat.md           # 公众号：深度长文、排版规范、引导话术、AI检测提醒
+    │   └── toutiao.md          # 头条：信息流公式、语义理解防标题党、微头条红利
+    └── examples/
+        ├── xiaohongshu-good.md # 小红书优秀文案样本（5篇）
+        ├── douyin-good.md      # 抖音优秀文案样本（4篇）
+        ├── wechat-good.md      # 公众号优秀文案样本（4篇）
+        └── toutiao-good.md     # 头条优秀文案样本（4篇）
 ```
 
 ## 更新日志

@@ -169,10 +169,10 @@ license: MIT
 ```
 
 每个平台的精确产出规格和模板，参见对应的平台文件：
-- [小红书](platforms/xiaohongshu.md)
-- [抖音](platforms/douyin.md)
-- [微信公众号](platforms/wechat.md)
-- [今日头条](platforms/toutiao.md)
+- [小红书](references/platforms/xiaohongshu.md)
+- [抖音](references/platforms/douyin.md)
+- [微信公众号](references/platforms/wechat.md)
+- [今日头条](references/platforms/toutiao.md)
 
 ### 第六步：生成后自检
 
@@ -205,11 +205,11 @@ license: MIT
 
 加载对应平台文件以获取精确的模板、公式和最新运营知识：
 
-- [小红书运营知识](platforms/xiaohongshu.md)
-- [抖音运营知识](platforms/douyin.md)
-- [微信公众号运营知识](platforms/wechat.md)
-- [今日头条运营知识](platforms/toutiao.md)
-- [小红书优秀案例](examples/xiaohongshu-good.md)
-- [抖音优秀案例](examples/douyin-good.md)
-- [微信公众号优秀案例](examples/wechat-good.md)
-- [今日头条优秀案例](examples/toutiao-good.md)
+- [小红书运营知识](references/platforms/xiaohongshu.md)
+- [抖音运营知识](references/platforms/douyin.md)
+- [微信公众号运营知识](references/platforms/wechat.md)
+- [今日头条运营知识](references/platforms/toutiao.md)
+- [小红书优秀案例](references/examples/xiaohongshu-good.md)
+- [抖音优秀案例](references/examples/douyin-good.md)
+- [微信公众号优秀案例](references/examples/wechat-good.md)
+- [今日头条优秀案例](references/examples/toutiao-good.md)
