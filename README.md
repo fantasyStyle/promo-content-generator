@@ -19,7 +19,7 @@ Claude Code 技能 — 读取小程序/App 项目信息，自动生成小红书�
 
 ```bash
 # 1. Clone 仓库
-git clone https://github.com/YOUR_USERNAME/promo-content-generator.git
+git clone https://github.com/fantasyStyle/promo-content-generator.git
 cd promo-content-generator
 
 # 2. 创建符号链接到 Claude Code skills 目录
