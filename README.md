@@ -15,31 +15,24 @@ Claude Code 技能 — 读取小程序/App 项目信息，自动生成小红书�
 
 ## 安装
 
-### 方式一：从 GitHub 安装（推荐等仓库公开后）
+### 方式一：一键安装（推荐）
 
 ```bash
-# 1. Clone 仓库
+gh skill install fantasyStyle/promo-content-generator
+```
+
+### 方式二：从 GitHub 手动安装
+
+```bash
 git clone https://github.com/fantasyStyle/promo-content-generator.git
 cd promo-content-generator
-
-# 2. 创建符号链接到 Claude Code skills 目录
-ln -sf "$(pwd)/.claude/skills/promo-content-generator" ~/.claude/skills/promo-content-generator
-
-# 3. 验证安装
-ls ~/.claude/skills/promo-content-generator/SKILL.md
-# 输出: /Users/.../promo-content-generator/SKILL.md  ✅ 安装成功
+ln -sf "$(pwd)/skills/promo-content-generator" ~/.claude/skills/promo-content-generator
 ```
 
-### 方式二：手动复制
+### 方式三：手动复制
 
 ```bash
-cp -r .claude/skills/promo-content-generator ~/.claude/skills/promo-content-generator
-```
-
-### 方式三：Claude Code Plugin 安装（待注册后可用）
-
-```bash
-claude plugins install promo-content-generator
+cp -r skills/promo-content-generator ~/.claude/skills/promo-content-generator
 ```
 
 ## 使用
