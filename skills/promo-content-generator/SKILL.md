@@ -1,6 +1,7 @@
 ---
 name: promo-content-generator
 description: 多平台推广文案生成器。读取小程序/App项目信息后，自动生成小红书、抖音、微信公众号、今日头条的推广图文和视频脚本。适用于没有运营经验的产品/开发人员。Use when user wants to generate promotional content for social media platforms (Xiaohongshu/RED, Douyin/TikTok China, WeChat Official Account, Toutiao) based on their product/mini-program/app project.
+license: MIT
 ---
 
 # 多平台推广文案生成器
